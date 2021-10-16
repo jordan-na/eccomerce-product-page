@@ -10,10 +10,12 @@ export const eventHandler = (() => {
       navToggle.addEventListener("click", () => {
          navLinks.style.webkitAnimation = "slideIn 0.6s forwards";
          darkBg.style.display = "block";
+         document.body.style.overflow = "hidden";
       });
       navCloseBtn.addEventListener("click", () => {
          navLinks.style.webkitAnimation = "slideOut 0.6s forwards";
          darkBg.style.display = "none";
+         document.body.style.overflow = "auto";
       });
    };
 
