@@ -1,10 +1,10 @@
 const imgDisplay = document.querySelectorAll(".img-display img");
 const lightBox = document.querySelector("#lightbox");
 const displayImgs = [
-   "/images/image-product-1.jpg",
-   "/images/image-product-2.jpg",
-   "/images/image-product-3.jpg",
-   "/images/image-product-4.jpg",
+   "images/image-product-1.jpg",
+   "images/image-product-2.jpg",
+   "images/image-product-3.jpg",
+   "images/image-product-4.jpg",
 ];
 let lightBoxIndex = 4;
 let mobileIndex = 0;
