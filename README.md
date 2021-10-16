@@ -33,10 +33,10 @@ Users should be able to:
 
 ### Screenshots
 
-***Big Layout***
+***Big Layout***\
 ![](./screenshots/large.png)
 
-***Medium Layout***
+***Medium Layout***\
 ![](./screenshots/medium.png)
 
 ***Small Layout***\
