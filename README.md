@@ -35,10 +35,13 @@ Users should be able to:
 
 ***Big Layout***
 ![](./screenshots/large.png)
+
 ***Medium Layout***
 ![](./screenshots/medium.png)
+
 ***Small Layout***
 ![](./screenshots/small.png)
+
 ***Mobile Layout***
 ![](./screenshots/mobile.png)
 
