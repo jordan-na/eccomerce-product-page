@@ -82,6 +82,7 @@ Users should be able to:
          -  _image-controller.mjs_ contains all the callback logic for user events that change images in both the main image display and lightbox
          -  _cart-controller.mjs_ contains all the callback logic for user events that update the cart
          -  _event-handler.mjs_ sets up all the event listeners to have callback functions that were defined in image-controller.mjs and cart-controller.mjs
+   -  Async javascript with Promises
    -  ES6 JS module design pattern
       -  Exporting of IIEF's were used to allow _encapsulation_ (see code example below)
 
