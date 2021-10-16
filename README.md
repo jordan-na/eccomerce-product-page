@@ -39,10 +39,10 @@ Users should be able to:
 ***Medium Layout***
 ![](./screenshots/medium.png)
 
-***Small Layout***
+***Small Layout***\
 ![](./screenshots/small.png)
 
-***Mobile Layout***
+***Mobile Layout***\
 ![](./screenshots/mobile.png)
 
 ### Links
