@@ -54,7 +54,7 @@ Users should be able to:
 -  Semantic HTML5 markup
 -  CSS custom properties
 -  Flexbox
--  Mobile-first workflow
+-  Desktop-first workflow
 -  Vanilla JS
 -  ES6 module patterns with IIEF's
 
