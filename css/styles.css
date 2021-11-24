@@ -16,12 +16,6 @@
    background: hsl(220, 13%, 13%);
 }
 
-/* * {
-   outline: 1px solid darkblue !important;
-   opacity: 1 !important;
-   visibility: visible !important;
-} */
-
 body {
    height: 100vh;
    width: 100%;
@@ -767,11 +761,11 @@ button {
       margin: 0;
    }
    #navbar #nav-links {
-      position: absolute;
+      position: fixed;
       display: block;
       background-color: hsl(0, 0%, 100%);
       height: auto;
-      top: 8px;
+      top: 0;
       left: 0;
       height: 100vh;
       width: 180px;
@@ -858,7 +852,7 @@ button {
    #dark-bg {
       width: 100%;
       height: 100%;
-      position: absolute;
+      position: fixed;
       display: none;
       background-color: hsla(0, 0%, 0%, 75%);
    }
