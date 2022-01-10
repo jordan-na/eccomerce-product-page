@@ -43,7 +43,7 @@ Users should be able to:
 ### Links
 
 -  Solution URL: [Github Repository](https://github.com/jordan-na/eccomerce-product-page-responsive.git)
--  Live Site URL: [Hosted on Github Pages](https://jordan-na.github.io/eccomerce-product-page-responsive/)
+-  Live Site URL: [Hosted on Github Pages](https://jordan-na.github.io/eccomerce-product-page/)
 
 ## My process
 
